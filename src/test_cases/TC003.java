@@ -6,4 +6,8 @@ public class TC003 {
 
     // Cydeo is going good
 
+    // Java is fun
+
+    // I love Java
+
 }
